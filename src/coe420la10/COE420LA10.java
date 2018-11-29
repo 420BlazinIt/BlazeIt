@@ -15,7 +15,7 @@ public class COE420LA10 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hello World this is lab10!"); //bug fixed 
     }
     
     public void addFeatureB(){
