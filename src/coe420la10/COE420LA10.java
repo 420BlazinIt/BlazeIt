@@ -17,4 +17,8 @@ public class COE420LA10 {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
+    
+    public void addFeatureB(){
+        System.out.println("Feature B added.");
+    }
 }
